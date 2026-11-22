@@ -1,0 +1,43 @@
+{
+  "hatch": {
+    "duration_minutes_base": 15,
+    "duration_step_minutes": 15,
+    "success_chance": {
+      "common": 90,
+      "rare": 80,
+      "super_rare": 70,
+      "legendary": 60,
+      "mythic": 50,
+      "dragon": 40,
+      "exclusive": 30
+    },
+    "fuel_burn_sec": 60,
+    "max_furnaces": 5
+  },
+  "leveling": {
+    "max_level": {
+      "common": 10,
+      "rare": 15,
+      "super_rare": 20,
+      "legendary": 25,
+      "mythic": 30,
+      "dragon": 30,
+      "exclusive": 30
+    },
+    "max_health_multiplier": 1.4,
+    "max_power_multiplier": 1.25,
+    "points_base": 10,
+    "points_step": 2,
+    "milestone_every": 5,
+    "kill_points": 1,
+    "kill_daily_cap": 20,
+    "feed_points": 1,
+    "feed_daily_cap": 5
+  },
+  "training": {
+    "outdoor_interval_sec": 1800,
+    "outdoor_daily_cap_sec": 10800,
+    "duel_win_points": 3,
+    "duel_loss_points": 1
+  }
+}
