@@ -1,4 +1,4 @@
-# Deploy pet.sugeonarea.com
+﻿# Deploy pet.sugeonarea.com
 
 ## DNS (Hostinger / panel hiện tại)
 
@@ -17,3 +17,4 @@ Không tạo A record cho `pet`.
 - Custom domain: `pet.sugeonarea.com` (file `CNAME` trong repo)
 
 Sau khi DNS xanh, bật **Enforce HTTPS** trong Settings → Pages.
+

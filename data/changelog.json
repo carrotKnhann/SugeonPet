@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "date": "2026-11-20",
+      "petId": "SugeonPet_Cow",
+      "title": "Bò — chỉnh Stampede",
+      "body": "Giảm cooldown Giẫm Đạp và chỉnh sát thương cho khớp cân bằng tank phổ thông.",
+      "tags": ["balance", "skill"]
+    },
+    {
+      "date": "2026-11-18",
+      "petId": null,
+      "title": "Catalog web — adaptive layouts",
+      "body": "Giao diện catalog đổi shell theo phone / tablet / laptop / PC.",
+      "tags": ["web"]
+    },
+    {
+      "date": "2026-11-10",
+      "petId": "SugeonPet_Llama",
+      "title": "Lạc đà không bướu — mở hồ sơ",
+      "body": "Thêm asset clear/default và mô tả hồ sơ trên catalog.",
+      "tags": ["new", "content"]
+    }
+  ]
+}

@@ -1,6 +1,5 @@
-# SugeonPet · Kho Linh Thú
+﻿# SugeonPet Catalog
 
-Trang catalog linh thú cho **Sugeon Area**.
+Live site: https://pet.sugeonarea.com
 
-- Site: https://pet.sugeonarea.com
-- Repo Pages: branch `main`, thư mục `/`
+GitHub Pages from `main` / root. See `DEPLOY.md` for DNS.
